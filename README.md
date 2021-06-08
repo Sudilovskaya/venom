@@ -1,7 +1,7 @@
 # venom - учебный проект 
 ## проект выполнила Судиловская Анастасия
 В проекте используются: 
--HTML
--CSS
--Javascript
--Normalize
+- HTML
+- CSS
+- Javascript
+- Normalize
